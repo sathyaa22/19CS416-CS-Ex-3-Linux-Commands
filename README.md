@@ -328,7 +328,7 @@ The mail command is used to send emails from the command line.
 
 Syntax: mail -s "Subject"
 
-<img width="743" height="67" alt="cs28" src="https://github.com/user-attachments/assets/dea2e191-62cf-469a-bc7b-cd59b3c10805" />
+<img width="2169" height="725" alt="mail command" src="https://github.com/user-attachments/assets/5c46c723-6c6a-455d-8bb5-e73fc05b91d6" />
 
 
 ## 29) df Command
